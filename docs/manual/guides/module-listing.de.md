@@ -143,7 +143,7 @@ PaletteManipulator::create()
 ;
 ```
 
-Damit Contao diese Angaben übernimmt musst du im Anschluß über die Konsole oder über den Contao Manager im Bereich 
+Damit Contao diese Angaben übernimmt musst du im Anschluss über die Konsole oder über den Contao Manager im Bereich 
 »Systemwartung« den »Anwendungs-Cache« aktualisieren. 
 
 Rufe dann das Contao-Installtool auf (Oder ab Contao **4.9** auch über die Konsole: 
